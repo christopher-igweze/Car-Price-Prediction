@@ -9,7 +9,7 @@
 
 ## Objective
 
-> Create a good Linear Regrassion model to predict the selling prices of the test data.
+> Create a good Linear Regression model to predict the selling prices of the test data.
 
 
 ## Summary of Findings & Actions
